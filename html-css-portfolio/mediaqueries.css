@@ -1,0 +1,22 @@
+@media screen and (max-width: 1100px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+    .skills-header {
+        font-size: 3rem; 
+        padding: 10px; 
+}
+.beskrivning {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 16px;
+}
+.re-use-bilder {
+    width: 400px;
+}
+.image-frame {
+    width: 400px;
+}
